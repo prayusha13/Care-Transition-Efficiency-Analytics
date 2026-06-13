@@ -113,29 +113,9 @@ Composite performance indicator used to monitor overall system effectiveness.
 - Scikit-Learn
 - GitHub
 
----
 
-## Dashboard Screenshots
 
-### Overview
 
-![Overview](screenshots/overview.png)
-
-### Efficiency Analytics
-
-![Efficiency](screenshots/efficiency.png)
-
-### Bottleneck Analysis
-
-![Bottlenecks](screenshots/bottlenecks.png)
-
-### Forecasting
-
-![Forecasting](screenshots/forecasting.png)
-
-### Recommendations
-
-![Recommendations](screenshots/recommendations.png)
 
 ---
 
